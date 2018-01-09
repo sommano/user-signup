@@ -1,0 +1,28 @@
+/*
+body {
+    font: georgia, sans-serif;
+    line-height: 1.88889;
+    color: #7bd81d;
+    background: rgb(7, 1, 20) no-repeat bottom right;
+    margin: auto;
+    padding: 10px;
+	text-align: center;
+    border: 3px solid blue;
+}
+*/
+
+/*
+.container {
+    width: 300px;
+    clear: both;
+}
+
+.container input {
+    width: 50%;
+    clear: both;
+}
+*/
+
+.error {
+    color: red;
+}

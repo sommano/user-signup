@@ -43,7 +43,7 @@ def validate():
         verify_error = "Passwords does not match"
 
     if email != "":
-        if "." not in email or "@" not in email or " " in email:
+        if "." not in email or "@" not in email or " " in email or ".." in email or "@@" in email:
             email_error = "Please enter a valid email"
         elif len(email) < 3:
             email_error = "Email cant be less than 3 characters"
